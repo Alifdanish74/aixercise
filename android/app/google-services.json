@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260363850485",
+    "project_id": "ai-xercise",
+    "storage_bucket": "ai-xercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260363850485:android:ea982cb5bfe2383db62bbc",
+        "android_client_info": {
+          "package_name": "com.danish.aixercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260363850485-0vcte7ut7ipc56i20t45n18fke3u1fhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6kC9-wXoIGaE45m4njtdahfsBYicpVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260363850485-0vcte7ut7ipc56i20t45n18fke3u1fhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
